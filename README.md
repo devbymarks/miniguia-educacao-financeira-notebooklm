@@ -307,4 +307,4 @@ Projeto desenvolvido como parte de um desafio da **DIO**, utilizando Inteligênc
 
 ---
 
-⭐ Se este projeto foi útil, considere deixar uma estrela no repositório.
+⭐ **Gostou do projeto? Deixe uma estrela no repositório!**
