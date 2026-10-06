@@ -301,7 +301,7 @@ miniguia-educacao-financeira-notebooklm/
 
 ## 👨‍💻 Autor
 
-**Matheus Barcelli**
+**Matheus Marks**
 
 Projeto desenvolvido como parte de um desafio da **DIO**, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
 
